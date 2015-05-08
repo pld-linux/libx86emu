@@ -2,7 +2,7 @@ Summary:	x86 CPU real mode emulator
 Summary(pl.UTF-8):	Emulator trybu rzeczywistego procesorów Intel x86
 Name:		libx86emu
 Version:	1.4
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries
 # also https://gitorious.org/x86emu/libx86emu/archive/%{version}.tar.gz
